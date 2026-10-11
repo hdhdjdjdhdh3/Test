@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ed336ccb315a2994",
+        "key": "ASADI",
+        "expirydate": "12-12-2027",
+        "Allowoffline": false
     }
 ]
