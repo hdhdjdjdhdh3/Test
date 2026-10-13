@@ -40,5 +40,11 @@
         "key": "MARI",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dbee8a1d70f45186",
+        "key": "MARI",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
