@@ -12,12 +12,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "ed336ccb315a2994",
-        "key": "AMIR",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
         "device_id": "dbee8a1d70f45186",
         "key": "MARIO",
         "expirydate": "15-06-2027",
@@ -45,12 +39,6 @@
         "device_id": "dbee8a1d70f45186",
         "key": "MARI",
         "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "ed336ccb315a2994",
-        "key": "AMIR",
-        "expirydate": "30-12-2028",
         "Allowoffline": false
     }
 ]
