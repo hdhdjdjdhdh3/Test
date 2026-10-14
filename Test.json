@@ -76,5 +76,11 @@
         "key": "",
         "expirydate": "30-12-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2b42611cf9a37f1c",
+        "key": "OMID",
+        "expirydate": "12-07-2027",
+        "Allowoffline": false
     }
 ]
